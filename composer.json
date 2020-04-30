@@ -1,24 +1,4 @@
 {
     "name": "clicketyclick/sandbox",
-    "description": "Just a test",
-    "keywords": ["test", "composer"],
-    "homepage": "https://github.com/Clicketyclick/sandbox",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Erik Bachmann",
-            "email": "ErikBachmann@clicketyclick.dk",
-            "homepage": "https://clicketyclick.dk"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Clicketyclick/sandbox"
-        }
-    ],
-    "require": {
-        "Clicketyclick/sandbox": "dev-master"
-    }
+    "type": "library"
 }
