@@ -1,8 +1,6 @@
 <?php
 
-echo "Hello world\n";
-
-function me() {
+function hellofromme() {
     echo "Hello from ". __FILE__;
 }
 
